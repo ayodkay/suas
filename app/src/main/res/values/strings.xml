@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SUAS</string>
+    <string name="abrigo" translatable="false">Preciso de um abrigo</string>
+    <string name="creas_list">Listagem de CREAS</string>
+    <string name="locate_cras">Localizar o CRAS mais próximo</string>
+    <string name="oq_cras">O que é um CRAS?</string>
+    <string name="oq_creas">O que é  um CREAS?</string>
+</resources>
