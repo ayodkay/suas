@@ -5,4 +5,91 @@
     <string name="locate_cras">Localizar o CRAS mais próximo</string>
     <string name="oq_cras">O que é um CRAS?</string>
     <string name="oq_creas">O que é  um CREAS?</string>
+    <string name="creas_description" translatable="false">
+    O Centro de Referência Especializado de Assistência Social (CREAS) é um
+equipamento público onde são oferecidos serviços com o objetivo de acolher,
+orientar, e acompanhar famílias e indivíduos em situação de violação de direitos, fortalecendo e reconstruindo os vínculos familiares e comunitários. Alguns exemplos que podem ser citados como violação de direitos seriam: violência doméstica (independente de gênero ou idade), abuso infantil, pessoa vivendo em situação de rua, dentre outros. Legalmente falando este equipamento oferta principalmente os seguintes serviços:
+\n\n
+● Serviço de Proteção e Atendimento Especializado a Famílias Indivíduos
+(PAEFI): para garantir apoio, orientação e acompanhamento a famílias com
+um ou mais de seus membros em situação de ameaça e violação de direitos. \n\n
+
+● Serviço Especializado em Abordagem Social: assegurar trabalho social de
+abordagem e busca ativa que identifique, nos territórios, a incidência de
+trabalho infantil, exploração sexual de crianças e adolescentes, situação de
+rua, dentre outras.
+\n\n
+Há também modalidades que ofertam: \n\n
+● Serviço de proteção social a adolescentes em cumprimento de medida
+socioeducativa de Liberdade Assistida (LA) e de Prestação de Serviços
+à Comunidade (PSC): para prover atenção socioassistencial e
+acompanhamento a adolescentes e jovens em cumprimento de medidas
+socioeducativas em meio aberto, determinadas judicialmente.\n\n
+● Serviço de Proteção Social Especial para Pessoas com Deficiência,
+Idosas e suas Famílias: destinado à promoção de atendimento
+especializado a famílias com pessoas com deficiência e idosos com algum
+grau de dependência, que tiveram suas limitações agravadas por violações
+de direito.\n\n
+● Serviço Especializado para Pessoas em Situação de Rua: para pessoas
+que utilizam as ruas como espaço de sobrevivência, com a finalidade de
+assegurar atendimento e atividades direcionadas para o desenvolvimento de
+sociabilidades, na perspectiva de fortalecimento de vínculos que possibilitem
+a construção de novos projetos de vida. Com a promoção do acesso a
+espaços de guarda de pertences, higiene pessoal, alimentação e provisão de
+documentação civil, além de poder ser utilizado como endereço institucional
+como referência do usuário caso seja necessário.\n\n
+Se você quiser saber e compreender melhor cada um desses serviços você pode
+acessar os documentos abaixo: \n\n
+<a href="https://crianca.mppr.mp.br/arquivos/File/suas/creas/creas_institucional.pdf">
+    https://crianca.mppr.mp.br/arquivos/File/suas/creas/creas_institucional.pdf \n\n</a>
+
+<a href="http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Normativas/tipificacao.pdf">
+    http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Normativas/tipificacao.pdf</a>
+\n\n
+Caso seja necessário, você não precisa de qualquer encaminhamento para procurar
+o CREAS mais próximo de você já que nesse espaço também são atendidas
+demandas espontâneas.Vale ressaltar que tanto o CREAS quanto o CRAS
+trabalham de forma interligada entre eles e com outros serviços como o CRAS; a
+Gestão dos Programas de Transferência de Renda e Benefícios (PETI, Bolsa
+Família, Benefício de Prestação Continuada - BPC); Serviços de Saúde,
+principalmente os de Saúde Mental; Órgãos de Defesa de Direitos (Conselho
+Tutelar, Ministério Público, Poder Judiciário, Defensoria Pública); Rede de
+Educação;Serviços de Acolhimento (abrigos).
+Inclusive, se você precisar de acolhimento em um abrigo, procure um CREAS e lá
+você será orientado quanto aos próximos passos.”
+    </string>
+
+    <string name="cras_description" translatable="false">
+        “O Centro de Referência de Assistência Social (CRAS) é uma unidade pública
+responsável pela organização e oferta de serviços da proteção social básica do
+Sistema Único de Assistência Social (SUAS) nas áreas de vulnerabilidade e risco social. O objetivo deste local é prevenir que ocorram situações de vulnerabilidades e riscos sociais nos territórios, por meio do desenvolvimento de potencialidades e aquisições, do fortalecimento de vínculos familiares e comunitários, e da ampliação do acesso aos direitos de cidadania.
+\n\n
+No CRAS, a população também é orientada sobre os benefícios assistenciais e podem ser inscritos no Cadastro Único para Programas Sociais do Governo Federal, como o Bolsa Família, ID Jovem, dentre outros.
+Legalmente falando os CRAS ofertam três modalidades de serviço:
+Serviço de Proteção e Atendimento Integral à Família (PAIF);
+Serviço de Convivência e Fortalecimento de Vínculos;
+Serviço de Proteção Social Básica no Domicílio para Pessoas com Deficiência e
+Idosas. \n\n
+Se você quiser saber e compreender melhor cada um desses serviços você pode
+acessar os documentos abaixo:\n\n
+http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Normativas/tipificacao.pdf \n\n
+http://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/orientacoes_Cras.pdf \n\n
+Você não precisa de qualquer encaminhamento para ir ao CRAS mais próximo de
+você já que nesse espaço também são atendidas demandas espontâneas. E é
+importante ressaltar que tanto o CRAS quanto o CREAS trabalham de forma
+interligada entre eles e com outros serviços da Assistência Social, da Saúde e da
+Educação.”
+    </string>
+
+    <string name="abrigo_description" translatable="false">
+        De maneira geral, o Serviço de Acolhimento Institucional em centros de recepção ou unidades de Reinserção Social  (popularmente conhecidas como abrigos) pode ser solicitado por qualquer pessoa que tenha seus vínculos sociais rompidos e que esteja em situação de rua. No entanto, há modalidades diferentes de Serviços de Acolhimento Institucional e resultam no público que cada unidade irá atender, por exemplo:\n\n
+Para mulheres em situação de violência: provisório para mulheres, acompanhadas ou não de seus filhos (caso tenham), em situação de risco de morte ou ameaças em razão da violência doméstica e familiar, causadora de lesão, sofrimento físico, sexual, psicológico ou dano moral.\n\n
+Para crianças e adolescentes: provisório e excepcional para crianças e adolescentes de ambos os sexos, inclusive crianças e adolescentes com deficiência, sob medida de proteção e em situação de risco pessoal e social, cujas famílias ou responsáveis encontram-se temporariamente impossibilitados de cumprir sua função de cuidado e proteção.\n\n
+Para adultos e famílias: provisório com estrutura para acolher com privacidade pessoas do mesmo sexo ou grupo familiar. Previsto para pessoas em situação de rua e desabrigo por abandono, migração e ausência de residência ou pessoas em trânsito e sem condições de autossustento.\n\n
+Para jovens e adultos com deficiência: destinado a jovens e adultos com deficiência, cujos vínculos familiares estejam rompidos ou fragilizados. Previsto para jovens e adultos com deficiência que não dispõem de condições de autossustentabilidade, de retaguarda familiar temporária ou permanente ou que estejam em processo de desligamento de instituições de longa permanência.\n\n
+Para idosos: com 60 anos ou mais, independente de gênero, física e mental independentes e/ou com diversos graus de dependência. Pensado para ser provisório e, excepcionalmente, de longa permanência quando esgotadas todas as possibilidades de autossustento e convívio com os familiares. Previsto para idosos que não dispõem de condições para permanecer com a família, com vivência de situações de violência e negligência, em situação de rua e de abandono, com vínculos familiares fragilizados ou rompidos.\n\n
+
+Caso você esteja precisando de um abrigo, a indicação é procurar um CREAS da sua região e lá você receberá as orientações de como proceder. As informações de contato e endereços dos pontos de serviço estão disponíveis na aba “Listagem dos CREAS.”
+
+    </string>
 </resources>
